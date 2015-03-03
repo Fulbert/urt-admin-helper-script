@@ -13,3 +13,10 @@
 **Script comes with comments!**
 
 Customize bind keys by opening `urt-admin-helper-script.cfg`, then read comments line.
+
+## How to use (default)
+
+1. Go through action menu using `G` key
+1. Select an action using `H` key
+1. Choose an option with `B` key
+1. Execute selected action with `N` key
